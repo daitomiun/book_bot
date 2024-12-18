@@ -3,7 +3,7 @@ This is a python project to parse and get a report from any book you want
 
 ## How to use
 ```bash
-python3 main
+python3 main.py
 ```
 
 you should get a report
