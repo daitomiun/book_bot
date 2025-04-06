@@ -1,3 +1,5 @@
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 # Book bot
 This is a python project to parse and get a report from any book you want
 
